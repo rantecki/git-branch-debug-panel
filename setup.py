@@ -17,6 +17,7 @@ setup(
     url='http://github.com/rantecki/git-branch-debug-panel',
     author='Richard Antecki',
     author_email='richard@antecki.id.au',
+    requires=['GitPython'],
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Environment :: Web Environment',
